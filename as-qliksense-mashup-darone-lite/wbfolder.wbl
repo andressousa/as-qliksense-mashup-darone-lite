@@ -1,0 +1,16 @@
+qlik-mashup-darone-lite.qext;
+qlik-mashup-darone-lite.html;
+qliksense.js;
+style.css;
+config/icons.js;
+config/language.js;
+config/options.js;
+config/shortcuts.js;
+assets/css/theme.css;
+assets/img/icon.png;
+assets/img/preview.png;
+assets/js/bootstrap.bundle.min.js;
+assets/js/jquery.min.js;
+assets/js/jquery.shortcut.min.js;
+assets/js/jquery.toast.min.js;
+assets/js/main.js;
